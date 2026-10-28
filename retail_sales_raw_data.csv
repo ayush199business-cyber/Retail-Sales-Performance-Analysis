@@ -1,0 +1,1546 @@
+Transaction_ID,Date,Product_Name,Quantity,Unit_Price,Store_Location,Category
+TX-10000,2025-01-01 00:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10001,2025-01-01 04:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10002,2025-01-01 08:00:00,Premium Running Shoes,2,,Chennai,Apparel
+TX-10003,2025-01-01 12:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10004,2025-01-01 16:00:00,Ergonomic Desk Chair,3,249.99,Delhi,Home & Kitchen
+TX-10005,2025-01-01 20:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-10006,2025-01-02 00:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10007,2025-01-02 04:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-10008,2025-01-02 08:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-10009,2025-01-02 12:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10010,2025-01-02 16:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10011,2025-01-02 20:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-10012,2025-01-03 00:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-10013,2025-01-03 04:00:00,Ergonomic Desk Chair,1,,Chennai,Home & Kitchen
+TX-10014,2025-01-03 08:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10015,2025-01-03 12:00:00,Premium Running Shoes,2,,Chennai,Apparel
+TX-10016,2025-01-03 16:00:00,Smart Coffee Maker,3,89.99,Bangalore,Home & Kitchen
+TX-10017,2025-01-03 20:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-10018,2025-01-04 00:00:00,Plant Protein Powder,4,35.0,Mumbai,Beauty & Health
+TX-10019,2025-01-04 04:00:00,Ergonomic Desk Chair,1,249.99,Mumbai,Home & Kitchen
+TX-10020,2025-01-04 08:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-10021,2025-01-04 12:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10022,2025-01-04 16:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-10023,2025-01-04 20:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10024,2025-01-05 00:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10025,2025-01-05 04:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-10026,2025-01-05 08:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-10027,2025-01-05 12:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-10028,2025-01-05 16:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10029,2025-01-05 20:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10030,2025-01-06 00:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-10031,2025-01-06 04:00:00,Pro Gaming Laptop,2,1299.99,Delhi,Electronics
+TX-10032,2025-01-06 08:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-10033,2025-01-06 12:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-10034,2025-01-06 16:00:00,Leather Bomber Jacket,3,250.0,Chennai,Apparel
+TX-10035,2025-01-06 20:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10036,2025-01-07 00:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10037,2025-01-07 04:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10038,2025-01-07 08:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-10039,2025-01-07 12:00:00,Ergonomic Desk Chair,1,249.99,Chennai,Home & Kitchen
+TX-10040,2025-01-07 16:00:00,Ergonomic Desk Chair,3,249.99,Delhi,Home & Kitchen
+TX-10041,2025-01-07 20:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-10042,2025-01-08 00:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-10043,2025-01-08 04:00:00,Plant Protein Powder,1,35.0,Mumbai,Beauty & Health
+TX-10044,2025-01-08 08:00:00,Smart Coffee Maker,4,89.99,Delhi,Home & Kitchen
+TX-10045,2025-01-08 12:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10046,2025-01-08 16:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-10047,2025-01-08 20:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-10048,2025-01-09 00:00:00,Leather Bomber Jacket,1,,Delhi,Apparel
+TX-10049,2025-01-09 04:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-10050,2025-01-09 08:00:00,Vitamin C Skincare Serum,1,45.0,Chennai,Beauty & Health
+TX-10051,2025-01-09 12:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-10052,2025-01-09 16:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10053,2025-01-09 20:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10054,2025-01-10 00:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10055,2025-01-10 04:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10056,2025-01-10 08:00:00,Plant Protein Powder,2,35.0,Hyderabad,Beauty & Health
+TX-10057,2025-01-10 12:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-10058,2025-01-10 16:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10059,2025-01-10 20:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10060,2025-01-11 00:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10061,2025-01-11 04:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-10062,2025-01-11 08:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10063,2025-01-11 12:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-10064,2025-01-11 16:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-10065,2025-01-11 20:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-10066,2025-01-12 00:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10067,2025-01-12 04:00:00,Pro Gaming Laptop,4,1299.99,Bangalore,Electronics
+TX-10068,2025-01-12 08:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-10069,2025-01-12 12:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-10070,2025-01-12 16:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-10071,2025-01-12 20:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-10072,2025-01-13 00:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-10073,2025-01-13 04:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10074,2025-01-13 08:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-10075,2025-01-13 12:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10076,2025-01-13 16:00:00,Smart Coffee Maker,3,,Bangalore,Home & Kitchen
+TX-10077,2025-01-13 20:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10078,2025-01-14 00:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10079,2025-01-14 04:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10080,2025-01-14 08:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-10081,2025-01-14 12:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-10082,2025-01-14 16:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-10083,2025-01-14 20:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-10084,2025-01-15 00:00:00,Vitamin C Skincare Serum,2,45.0,Chennai,Beauty & Health
+TX-10085,2025-01-15 04:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-10086,2025-01-15 08:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-10087,2025-01-15 12:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-10088,2025-01-15 16:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-10089,2025-01-15 20:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-10090,2025-01-16 00:00:00,Plant Protein Powder,4,35.0,Mumbai,Beauty & Health
+TX-10091,2025-01-16 04:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10092,2025-01-16 08:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10093,2025-01-16 12:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10094,2025-01-16 16:00:00,Leather Bomber Jacket,4,250.0,Bangalore,Apparel
+TX-10095,2025-01-16 20:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10096,2025-01-17 00:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-10097,2025-01-17 04:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10098,2025-01-17 08:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10099,2025-01-17 12:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10100,2025-01-17 16:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-10101,2025-01-17 20:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-10102,2025-01-18 00:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10103,2025-01-18 04:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10104,2025-01-18 08:00:00,Noise Canceling Headphones,4,199.99,Chennai,Electronics
+TX-10105,2025-01-18 12:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-10106,2025-01-18 16:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-10107,2025-01-18 20:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10108,2025-01-19 00:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-10109,2025-01-19 04:00:00,Vitamin C Skincare Serum,3,45.0,Hyderabad,Beauty & Health
+TX-10110,2025-01-19 08:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-10111,2025-01-19 12:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-10112,2025-01-19 16:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-10113,2025-01-19 20:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-10114,2025-01-20 00:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-10115,2025-01-20 04:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10116,2025-01-20 08:00:00,Pro Gaming Laptop,3,1299.99,Chennai,Electronics
+TX-10117,2025-01-20 12:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-10118,2025-01-20 16:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10119,2025-01-20 20:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10120,2025-01-21 00:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-10121,2025-01-21 04:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-10122,2025-01-21 08:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10123,2025-01-21 12:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10124,2025-01-21 16:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10125,2025-01-21 20:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-10126,2025-01-22 00:00:00,Noise Canceling Headphones,1,199.99,Chennai,Electronics
+TX-10127,2025-01-22 04:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-10128,2025-01-22 08:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10129,2025-01-22 12:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-10130,2025-01-22 16:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-10131,2025-01-22 20:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10132,2025-01-23 00:00:00,Pro Gaming Laptop,4,1299.99,Delhi,Electronics
+TX-10133,2025-01-23 04:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10134,2025-01-23 08:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10135,2025-01-23 12:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10136,2025-01-23 16:00:00,Pro Gaming Laptop,1,1299.99,Chennai,Electronics
+TX-10137,2025-01-23 20:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10138,2025-01-24 00:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10139,2025-01-24 04:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-10140,2025-01-24 08:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-10141,2025-01-24 12:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-10142,2025-01-24 16:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10143,2025-01-24 20:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10144,2025-01-25 00:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-10145,2025-01-25 04:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10146,2025-01-25 08:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-10147,2025-01-25 12:00:00,Ergonomic Desk Chair,4,249.99,Mumbai,Home & Kitchen
+TX-10148,2025-01-25 16:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-10149,2025-01-25 20:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10150,2025-01-26 00:00:00,Ergonomic Desk Chair,3,,Mumbai,Home & Kitchen
+TX-10151,2025-01-26 04:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-10152,2025-01-26 08:00:00,Pro Gaming Laptop,2,1299.99,Delhi,Electronics
+TX-10153,2025-01-26 12:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-10154,2025-01-26 16:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-10155,2025-01-26 20:00:00,Noise Canceling Headphones,3,199.99,Mumbai,Electronics
+TX-10156,2025-01-27 00:00:00,Vitamin C Skincare Serum,2,45.0,Chennai,Beauty & Health
+TX-10157,2025-01-27 04:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10158,2025-01-27 08:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10159,2025-01-27 12:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10160,2025-01-27 16:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-10161,2025-01-27 20:00:00,Pro Gaming Laptop,3,1299.99,Bangalore,Electronics
+TX-10162,2025-01-28 00:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-10163,2025-01-28 04:00:00,Smart Coffee Maker,3,89.99,Bangalore,Home & Kitchen
+TX-10164,2025-01-28 08:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10165,2025-01-28 12:00:00,Pro Gaming Laptop,2,1299.99,Delhi,Electronics
+TX-10166,2025-01-28 16:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10167,2025-01-28 20:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10168,2025-01-29 00:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-10169,2025-01-29 04:00:00,Leather Bomber Jacket,4,250.0,Bangalore,Apparel
+TX-10170,2025-01-29 08:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-10171,2025-01-29 12:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10172,2025-01-29 16:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10173,2025-01-29 20:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10174,2025-01-30 00:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-10175,2025-01-30 04:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-10176,2025-01-30 08:00:00,Ergonomic Desk Chair,3,249.99,Chennai,Home & Kitchen
+TX-10177,2025-01-30 12:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-10178,2025-01-30 16:00:00,Pro Gaming Laptop,2,1299.99,Delhi,Electronics
+TX-10179,2025-01-30 20:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-10180,2025-01-31 00:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10181,2025-01-31 04:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-10182,2025-01-31 08:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-10183,2025-01-31 12:00:00,Ergonomic Desk Chair,1,249.99,Mumbai,Home & Kitchen
+TX-10184,2025-01-31 16:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-10185,2025-01-31 20:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10186,2025-02-01 00:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10187,2025-02-01 04:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-10188,2025-02-01 08:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-10189,2025-02-01 12:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10190,2025-02-01 16:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10191,2025-02-01 20:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-10192,2025-02-02 00:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10193,2025-02-02 04:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-10194,2025-02-02 08:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10195,2025-02-02 12:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10196,2025-02-02 16:00:00,Noise Canceling Headphones,1,,Chennai,Electronics
+TX-10197,2025-02-02 20:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-10198,2025-02-03 00:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10199,2025-02-03 04:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10200,2025-02-03 08:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10201,2025-02-03 12:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10202,2025-02-03 16:00:00,Vitamin C Skincare Serum,3,45.0,Hyderabad,Beauty & Health
+TX-10203,2025-02-03 20:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10204,2025-02-04 00:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10205,2025-02-04 04:00:00,Premium Running Shoes,4,120.0,Delhi,Apparel
+TX-10206,2025-02-04 08:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-10207,2025-02-04 12:00:00,Smart Coffee Maker,2,89.99,Bangalore,Home & Kitchen
+TX-10208,2025-02-04 16:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-10209,2025-02-04 20:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10210,2025-02-05 00:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10211,2025-02-05 04:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10212,2025-02-05 08:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-10213,2025-02-05 12:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10214,2025-02-05 16:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-10215,2025-02-05 20:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-10216,2025-02-06 00:00:00,Smart Coffee Maker,4,89.99,Hyderabad,Home & Kitchen
+TX-10217,2025-02-06 04:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10218,2025-02-06 08:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10219,2025-02-06 12:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10220,2025-02-06 16:00:00,Ergonomic Desk Chair,2,249.99,Hyderabad,Home & Kitchen
+TX-10221,2025-02-06 20:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10222,2025-02-07 00:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-10223,2025-02-07 04:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-10224,2025-02-07 08:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10225,2025-02-07 12:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10226,2025-02-07 16:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-10227,2025-02-07 20:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-10228,2025-02-08 00:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10229,2025-02-08 04:00:00,Premium Running Shoes,2,120.0,Mumbai,Apparel
+TX-10230,2025-02-08 08:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-10231,2025-02-08 12:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10232,2025-02-08 16:00:00,Smart Coffee Maker,3,89.99,Chennai,Home & Kitchen
+TX-10233,2025-02-08 20:00:00,Smart Coffee Maker,4,89.99,Delhi,Home & Kitchen
+TX-10234,2025-02-09 00:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10235,2025-02-09 04:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10236,2025-02-09 08:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-10237,2025-02-09 12:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-10238,2025-02-09 16:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-10239,2025-02-09 20:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-10240,2025-02-10 00:00:00,Noise Canceling Headphones,4,199.99,Chennai,Electronics
+TX-10241,2025-02-10 04:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-10242,2025-02-10 08:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-10243,2025-02-10 12:00:00,Pro Gaming Laptop,3,,Hyderabad,Electronics
+TX-10244,2025-02-10 16:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10245,2025-02-10 20:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-10246,2025-02-11 00:00:00,Pro Gaming Laptop,4,,Delhi,Electronics
+TX-10247,2025-02-11 04:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10248,2025-02-11 08:00:00,Pro Gaming Laptop,3,1299.99,Chennai,Electronics
+TX-10249,2025-02-11 12:00:00,Ergonomic Desk Chair,3,249.99,Chennai,Home & Kitchen
+TX-10250,2025-02-11 16:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-10251,2025-02-11 20:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-10252,2025-02-12 00:00:00,Smart Coffee Maker,2,,Mumbai,Home & Kitchen
+TX-10253,2025-02-12 04:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10254,2025-02-12 08:00:00,Pro Gaming Laptop,1,1299.99,Chennai,Electronics
+TX-10255,2025-02-12 12:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-10256,2025-02-12 16:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10257,2025-02-12 20:00:00,Leather Bomber Jacket,1,250.0,Mumbai,Apparel
+TX-10258,2025-02-13 00:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10259,2025-02-13 04:00:00,Ergonomic Desk Chair,3,249.99,Delhi,Home & Kitchen
+TX-10260,2025-02-13 08:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-10261,2025-02-13 12:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-10262,2025-02-13 16:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10263,2025-02-13 20:00:00,Pro Gaming Laptop,3,1299.99,Chennai,Electronics
+TX-10264,2025-02-14 00:00:00,Ergonomic Desk Chair,1,249.99,Mumbai,Home & Kitchen
+TX-10265,2025-02-14 04:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10266,2025-02-14 08:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-10267,2025-02-14 12:00:00,Plant Protein Powder,1,35.0,Bangalore,Beauty & Health
+TX-10268,2025-02-14 16:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-10269,2025-02-14 20:00:00,Ergonomic Desk Chair,1,249.99,Chennai,Home & Kitchen
+TX-10270,2025-02-15 00:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-10271,2025-02-15 04:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-10272,2025-02-15 08:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-10273,2025-02-15 12:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10274,2025-02-15 16:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-10275,2025-02-15 20:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10276,2025-02-16 00:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10277,2025-02-16 04:00:00,Leather Bomber Jacket,3,250.0,Chennai,Apparel
+TX-10278,2025-02-16 08:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10279,2025-02-16 12:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10280,2025-02-16 16:00:00,Smart Coffee Maker,2,,Chennai,Home & Kitchen
+TX-10281,2025-02-16 20:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10282,2025-02-17 00:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-10283,2025-02-17 04:00:00,Vitamin C Skincare Serum,2,45.0,Delhi,Beauty & Health
+TX-10284,2025-02-17 08:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10285,2025-02-17 12:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-10286,2025-02-17 16:00:00,Pro Gaming Laptop,4,1299.99,Delhi,Electronics
+TX-10287,2025-02-17 20:00:00,Premium Running Shoes,4,120.0,Mumbai,Apparel
+TX-10288,2025-02-18 00:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10289,2025-02-18 04:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10290,2025-02-18 08:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-10291,2025-02-18 12:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10292,2025-02-18 16:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10293,2025-02-18 20:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-10294,2025-02-19 00:00:00,Noise Canceling Headphones,4,,Hyderabad,Electronics
+TX-10295,2025-02-19 04:00:00,Smart Coffee Maker,2,89.99,Bangalore,Home & Kitchen
+TX-10296,2025-02-19 08:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-10297,2025-02-19 12:00:00,Vitamin C Skincare Serum,2,45.0,Delhi,Beauty & Health
+TX-10298,2025-02-19 16:00:00,Premium Running Shoes,3,120.0,Mumbai,Apparel
+TX-10299,2025-02-19 20:00:00,Plant Protein Powder,1,,Delhi,Beauty & Health
+TX-10300,2025-02-20 00:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10301,2025-02-20 04:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-10302,2025-02-20 08:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-10303,2025-02-20 12:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10304,2025-02-20 16:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-10305,2025-02-20 20:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10306,2025-02-21 00:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10307,2025-02-21 04:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-10308,2025-02-21 08:00:00,Plant Protein Powder,4,35.0,Mumbai,Beauty & Health
+TX-10309,2025-02-21 12:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-10310,2025-02-21 16:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10311,2025-02-21 20:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10312,2025-02-22 00:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-10313,2025-02-22 04:00:00,Vitamin C Skincare Serum,1,,Mumbai,Beauty & Health
+TX-10314,2025-02-22 08:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-10315,2025-02-22 12:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10316,2025-02-22 16:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-10317,2025-02-22 20:00:00,Pro Gaming Laptop,3,1299.99,Bangalore,Electronics
+TX-10318,2025-02-23 00:00:00,Vitamin C Skincare Serum,2,45.0,Chennai,Beauty & Health
+TX-10319,2025-02-23 04:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-10320,2025-02-23 08:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10321,2025-02-23 12:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10322,2025-02-23 16:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10323,2025-02-23 20:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-10324,2025-02-24 00:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-10325,2025-02-24 04:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-10326,2025-02-24 08:00:00,Ergonomic Desk Chair,2,,Chennai,Home & Kitchen
+TX-10327,2025-02-24 12:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10328,2025-02-24 16:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10329,2025-02-24 20:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10330,2025-02-25 00:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10331,2025-02-25 04:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-10332,2025-02-25 08:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10333,2025-02-25 12:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-10334,2025-02-25 16:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-10335,2025-02-25 20:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10336,2025-02-26 00:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-10337,2025-02-26 04:00:00,Ergonomic Desk Chair,4,249.99,Mumbai,Home & Kitchen
+TX-10338,2025-02-26 08:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10339,2025-02-26 12:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10340,2025-02-26 16:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10341,2025-02-26 20:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10342,2025-02-27 00:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-10343,2025-02-27 04:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10344,2025-02-27 08:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10345,2025-02-27 12:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-10346,2025-02-27 16:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-10347,2025-02-27 20:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-10348,2025-02-28 00:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-10349,2025-02-28 04:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10350,2025-02-28 08:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10351,2025-02-28 12:00:00,Pro Gaming Laptop,1,1299.99,Hyderabad,Electronics
+TX-10352,2025-02-28 16:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-10353,2025-02-28 20:00:00,Plant Protein Powder,1,35.0,Mumbai,Beauty & Health
+TX-10354,2025-03-01 00:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-10355,2025-03-01 04:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-10356,2025-03-01 08:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-10357,2025-03-01 12:00:00,Plant Protein Powder,1,35.0,Bangalore,Beauty & Health
+TX-10358,2025-03-01 16:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10359,2025-03-01 20:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-10360,2025-03-02 00:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10361,2025-03-02 04:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10362,2025-03-02 08:00:00,Pro Gaming Laptop,3,1299.99,Bangalore,Electronics
+TX-10363,2025-03-02 12:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10364,2025-03-02 16:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10365,2025-03-02 20:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-10366,2025-03-03 00:00:00,Leather Bomber Jacket,2,,Chennai,Apparel
+TX-10367,2025-03-03 04:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-10368,2025-03-03 08:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-10369,2025-03-03 12:00:00,Vitamin C Skincare Serum,2,45.0,Chennai,Beauty & Health
+TX-10370,2025-03-03 16:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10371,2025-03-03 20:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-10372,2025-03-04 00:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-10373,2025-03-04 04:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-10374,2025-03-04 08:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-10375,2025-03-04 12:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10376,2025-03-04 16:00:00,Smart Coffee Maker,1,89.99,Hyderabad,Home & Kitchen
+TX-10377,2025-03-04 20:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-10378,2025-03-05 00:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10379,2025-03-05 04:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10380,2025-03-05 08:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10381,2025-03-05 12:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-10382,2025-03-05 16:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10383,2025-03-05 20:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10384,2025-03-06 00:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10385,2025-03-06 04:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-10386,2025-03-06 08:00:00,Ergonomic Desk Chair,2,,Hyderabad,Home & Kitchen
+TX-10387,2025-03-06 12:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-10388,2025-03-06 16:00:00,Pro Gaming Laptop,3,1299.99,Bangalore,Electronics
+TX-10389,2025-03-06 20:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-10390,2025-03-07 00:00:00,Ergonomic Desk Chair,2,249.99,Chennai,Home & Kitchen
+TX-10391,2025-03-07 04:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10392,2025-03-07 08:00:00,Plant Protein Powder,1,35.0,Bangalore,Beauty & Health
+TX-10393,2025-03-07 12:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-10394,2025-03-07 16:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-10395,2025-03-07 20:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10396,2025-03-08 00:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10397,2025-03-08 04:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-10398,2025-03-08 08:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-10399,2025-03-08 12:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-10400,2025-03-08 16:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-10401,2025-03-08 20:00:00,Smart Coffee Maker,1,,Bangalore,Home & Kitchen
+TX-10402,2025-03-09 00:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-10403,2025-03-09 04:00:00,Pro Gaming Laptop,1,,Bangalore,Electronics
+TX-10404,2025-03-09 08:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10405,2025-03-09 12:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10406,2025-03-09 16:00:00,Leather Bomber Jacket,1,250.0,Mumbai,Apparel
+TX-10407,2025-03-09 20:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-10408,2025-03-10 00:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-10409,2025-03-10 04:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-10410,2025-03-10 08:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-10411,2025-03-10 12:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10412,2025-03-10 16:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-10413,2025-03-10 20:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-10414,2025-03-11 00:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10415,2025-03-11 04:00:00,Pro Gaming Laptop,2,1299.99,Delhi,Electronics
+TX-10416,2025-03-11 08:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-10417,2025-03-11 12:00:00,Noise Canceling Headphones,2,199.99,Chennai,Electronics
+TX-10418,2025-03-11 16:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10419,2025-03-11 20:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-10420,2025-03-12 00:00:00,Noise Canceling Headphones,3,199.99,Mumbai,Electronics
+TX-10421,2025-03-12 04:00:00,Noise Canceling Headphones,1,,Bangalore,Electronics
+TX-10422,2025-03-12 08:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-10423,2025-03-12 12:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-10424,2025-03-12 16:00:00,Plant Protein Powder,2,35.0,Hyderabad,Beauty & Health
+TX-10425,2025-03-12 20:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10426,2025-03-13 00:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-10427,2025-03-13 04:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10428,2025-03-13 08:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-10429,2025-03-13 12:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10430,2025-03-13 16:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10431,2025-03-13 20:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-10432,2025-03-14 00:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10433,2025-03-14 04:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-10434,2025-03-14 08:00:00,Smart Coffee Maker,3,89.99,Chennai,Home & Kitchen
+TX-10435,2025-03-14 12:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-10436,2025-03-14 16:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-10437,2025-03-14 20:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-10438,2025-03-15 00:00:00,Vitamin C Skincare Serum,2,45.0,Chennai,Beauty & Health
+TX-10439,2025-03-15 04:00:00,Ergonomic Desk Chair,3,249.99,Chennai,Home & Kitchen
+TX-10440,2025-03-15 08:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10441,2025-03-15 12:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-10442,2025-03-15 16:00:00,Pro Gaming Laptop,2,1299.99,Delhi,Electronics
+TX-10443,2025-03-15 20:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-10444,2025-03-16 00:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10445,2025-03-16 04:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-10446,2025-03-16 08:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-10447,2025-03-16 12:00:00,Leather Bomber Jacket,2,250.0,Mumbai,Apparel
+TX-10448,2025-03-16 16:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-10449,2025-03-16 20:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-10450,2025-03-17 00:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-10451,2025-03-17 04:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-10452,2025-03-17 08:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-10453,2025-03-17 12:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10454,2025-03-17 16:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10455,2025-03-17 20:00:00,Ergonomic Desk Chair,1,249.99,Mumbai,Home & Kitchen
+TX-10456,2025-03-18 00:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-10457,2025-03-18 04:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10458,2025-03-18 08:00:00,Ergonomic Desk Chair,1,249.99,Delhi,Home & Kitchen
+TX-10459,2025-03-18 12:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-10460,2025-03-18 16:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10461,2025-03-18 20:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10462,2025-03-19 00:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-10463,2025-03-19 04:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-10464,2025-03-19 08:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10465,2025-03-19 12:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10466,2025-03-19 16:00:00,Plant Protein Powder,1,35.0,Bangalore,Beauty & Health
+TX-10467,2025-03-19 20:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10468,2025-03-20 00:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10469,2025-03-20 04:00:00,Smart Coffee Maker,1,,Chennai,Home & Kitchen
+TX-10470,2025-03-20 08:00:00,Premium Running Shoes,1,,Hyderabad,Apparel
+TX-10471,2025-03-20 12:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10472,2025-03-20 16:00:00,Ergonomic Desk Chair,3,249.99,Delhi,Home & Kitchen
+TX-10473,2025-03-20 20:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10474,2025-03-21 00:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10475,2025-03-21 04:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-10476,2025-03-21 08:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10477,2025-03-21 12:00:00,Plant Protein Powder,3,35.0,Chennai,Beauty & Health
+TX-10478,2025-03-21 16:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10479,2025-03-21 20:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-10480,2025-03-22 00:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10481,2025-03-22 04:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-10482,2025-03-22 08:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-10483,2025-03-22 12:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-10484,2025-03-22 16:00:00,Premium Running Shoes,2,120.0,Mumbai,Apparel
+TX-10485,2025-03-22 20:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-10486,2025-03-23 00:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-10487,2025-03-23 04:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10488,2025-03-23 08:00:00,Pro Gaming Laptop,3,1299.99,Chennai,Electronics
+TX-10489,2025-03-23 12:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10490,2025-03-23 16:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10491,2025-03-23 20:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10492,2025-03-24 00:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10493,2025-03-24 04:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-10494,2025-03-24 08:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10495,2025-03-24 12:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10496,2025-03-24 16:00:00,Ergonomic Desk Chair,2,249.99,Chennai,Home & Kitchen
+TX-10497,2025-03-24 20:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10498,2025-03-25 00:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10499,2025-03-25 04:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10500,2025-03-25 08:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10501,2025-03-25 12:00:00,Premium Running Shoes,4,120.0,Mumbai,Apparel
+TX-10502,2025-03-25 16:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-10503,2025-03-25 20:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10504,2025-03-26 00:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-10505,2025-03-26 04:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10506,2025-03-26 08:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10507,2025-03-26 12:00:00,Ergonomic Desk Chair,3,249.99,Chennai,Home & Kitchen
+TX-10508,2025-03-26 16:00:00,Plant Protein Powder,1,35.0,Bangalore,Beauty & Health
+TX-10509,2025-03-26 20:00:00,Noise Canceling Headphones,1,199.99,Chennai,Electronics
+TX-10510,2025-03-27 00:00:00,Pro Gaming Laptop,3,,Delhi,Electronics
+TX-10511,2025-03-27 04:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-10512,2025-03-27 08:00:00,Vitamin C Skincare Serum,2,45.0,Chennai,Beauty & Health
+TX-10513,2025-03-27 12:00:00,Leather Bomber Jacket,4,250.0,Bangalore,Apparel
+TX-10514,2025-03-27 16:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10515,2025-03-27 20:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-10516,2025-03-28 00:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10517,2025-03-28 04:00:00,Leather Bomber Jacket,2,250.0,Mumbai,Apparel
+TX-10518,2025-03-28 08:00:00,Plant Protein Powder,1,,Bangalore,Beauty & Health
+TX-10519,2025-03-28 12:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10520,2025-03-28 16:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-10521,2025-03-28 20:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10522,2025-03-29 00:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-10523,2025-03-29 04:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10524,2025-03-29 08:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-10525,2025-03-29 12:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10526,2025-03-29 16:00:00,Ergonomic Desk Chair,3,249.99,Chennai,Home & Kitchen
+TX-10527,2025-03-29 20:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10528,2025-03-30 00:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-10529,2025-03-30 04:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-10530,2025-03-30 08:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10531,2025-03-30 12:00:00,Plant Protein Powder,1,35.0,Bangalore,Beauty & Health
+TX-10532,2025-03-30 16:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10533,2025-03-30 20:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-10534,2025-03-31 00:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-10535,2025-03-31 04:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-10536,2025-03-31 08:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-10537,2025-03-31 12:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-10538,2025-03-31 16:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-10539,2025-03-31 20:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-10540,2025-04-01 00:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-10541,2025-04-01 04:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10542,2025-04-01 08:00:00,Ergonomic Desk Chair,1,249.99,Chennai,Home & Kitchen
+TX-10543,2025-04-01 12:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10544,2025-04-01 16:00:00,Pro Gaming Laptop,4,1299.99,Bangalore,Electronics
+TX-10545,2025-04-01 20:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10546,2025-04-02 00:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-10547,2025-04-02 04:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-10548,2025-04-02 08:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10549,2025-04-02 12:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10550,2025-04-02 16:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-10551,2025-04-02 20:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10552,2025-04-03 00:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-10553,2025-04-03 04:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-10554,2025-04-03 08:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10555,2025-04-03 12:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-10556,2025-04-03 16:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-10557,2025-04-03 20:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-10558,2025-04-04 00:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-10559,2025-04-04 04:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-10560,2025-04-04 08:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10561,2025-04-04 12:00:00,Ergonomic Desk Chair,2,249.99,Hyderabad,Home & Kitchen
+TX-10562,2025-04-04 16:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-10563,2025-04-04 20:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-10564,2025-04-05 00:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10565,2025-04-05 04:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-10566,2025-04-05 08:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10567,2025-04-05 12:00:00,Plant Protein Powder,1,35.0,Mumbai,Beauty & Health
+TX-10568,2025-04-05 16:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-10569,2025-04-05 20:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10570,2025-04-06 00:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-10571,2025-04-06 04:00:00,Ergonomic Desk Chair,3,249.99,Delhi,Home & Kitchen
+TX-10572,2025-04-06 08:00:00,Pro Gaming Laptop,4,1299.99,Bangalore,Electronics
+TX-10573,2025-04-06 12:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-10574,2025-04-06 16:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10575,2025-04-06 20:00:00,Leather Bomber Jacket,3,250.0,Chennai,Apparel
+TX-10576,2025-04-07 00:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-10577,2025-04-07 04:00:00,Leather Bomber Jacket,3,250.0,Chennai,Apparel
+TX-10578,2025-04-07 08:00:00,Noise Canceling Headphones,3,199.99,Mumbai,Electronics
+TX-10579,2025-04-07 12:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10580,2025-04-07 16:00:00,Leather Bomber Jacket,1,,Mumbai,Apparel
+TX-10581,2025-04-07 20:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-10582,2025-04-08 00:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10583,2025-04-08 04:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10584,2025-04-08 08:00:00,Leather Bomber Jacket,1,250.0,Mumbai,Apparel
+TX-10585,2025-04-08 12:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10586,2025-04-08 16:00:00,Leather Bomber Jacket,2,250.0,Mumbai,Apparel
+TX-10587,2025-04-08 20:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-10588,2025-04-09 00:00:00,Smart Coffee Maker,4,89.99,Delhi,Home & Kitchen
+TX-10589,2025-04-09 04:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10590,2025-04-09 08:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10591,2025-04-09 12:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-10592,2025-04-09 16:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10593,2025-04-09 20:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-10594,2025-04-10 00:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10595,2025-04-10 04:00:00,Smart Coffee Maker,3,89.99,Bangalore,Home & Kitchen
+TX-10596,2025-04-10 08:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-10597,2025-04-10 12:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10598,2025-04-10 16:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-10599,2025-04-10 20:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-10600,2025-04-11 00:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10601,2025-04-11 04:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-10602,2025-04-11 08:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10603,2025-04-11 12:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-10604,2025-04-11 16:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10605,2025-04-11 20:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-10606,2025-04-12 00:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-10607,2025-04-12 04:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10608,2025-04-12 08:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10609,2025-04-12 12:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-10610,2025-04-12 16:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10611,2025-04-12 20:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-10612,2025-04-13 00:00:00,Smart Coffee Maker,2,89.99,Bangalore,Home & Kitchen
+TX-10613,2025-04-13 04:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-10614,2025-04-13 08:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-10615,2025-04-13 12:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-10616,2025-04-13 16:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10617,2025-04-13 20:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-10618,2025-04-14 00:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10619,2025-04-14 04:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-10620,2025-04-14 08:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10621,2025-04-14 12:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10622,2025-04-14 16:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10623,2025-04-14 20:00:00,Noise Canceling Headphones,1,199.99,Chennai,Electronics
+TX-10624,2025-04-15 00:00:00,Premium Running Shoes,2,120.0,Mumbai,Apparel
+TX-10625,2025-04-15 04:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10626,2025-04-15 08:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-10627,2025-04-15 12:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-10628,2025-04-15 16:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-10629,2025-04-15 20:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10630,2025-04-16 00:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10631,2025-04-16 04:00:00,Smart Coffee Maker,1,,Mumbai,Home & Kitchen
+TX-10632,2025-04-16 08:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-10633,2025-04-16 12:00:00,Pro Gaming Laptop,1,1299.99,Hyderabad,Electronics
+TX-10634,2025-04-16 16:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10635,2025-04-16 20:00:00,Noise Canceling Headphones,1,199.99,Chennai,Electronics
+TX-10636,2025-04-17 00:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-10637,2025-04-17 04:00:00,Vitamin C Skincare Serum,4,45.0,Mumbai,Beauty & Health
+TX-10638,2025-04-17 08:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10639,2025-04-17 12:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-10640,2025-04-17 16:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-10641,2025-04-17 20:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-10642,2025-04-18 00:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10643,2025-04-18 04:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-10644,2025-04-18 08:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-10645,2025-04-18 12:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-10646,2025-04-18 16:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10647,2025-04-18 20:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-10648,2025-04-19 00:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10649,2025-04-19 04:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10650,2025-04-19 08:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10651,2025-04-19 12:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10652,2025-04-19 16:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10653,2025-04-19 20:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10654,2025-04-20 00:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10655,2025-04-20 04:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10656,2025-04-20 08:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-10657,2025-04-20 12:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10658,2025-04-20 16:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-10659,2025-04-20 20:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-10660,2025-04-21 00:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10661,2025-04-21 04:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-10662,2025-04-21 08:00:00,Premium Running Shoes,3,120.0,Delhi,Apparel
+TX-10663,2025-04-21 12:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10664,2025-04-21 16:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-10665,2025-04-21 20:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10666,2025-04-22 00:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-10667,2025-04-22 04:00:00,Smart Coffee Maker,3,89.99,Chennai,Home & Kitchen
+TX-10668,2025-04-22 08:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10669,2025-04-22 12:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-10670,2025-04-22 16:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10671,2025-04-22 20:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-10672,2025-04-23 00:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-10673,2025-04-23 04:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-10674,2025-04-23 08:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10675,2025-04-23 12:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10676,2025-04-23 16:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10677,2025-04-23 20:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-10678,2025-04-24 00:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-10679,2025-04-24 04:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10680,2025-04-24 08:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-10681,2025-04-24 12:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10682,2025-04-24 16:00:00,Vitamin C Skincare Serum,3,,Mumbai,Beauty & Health
+TX-10683,2025-04-24 20:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-10684,2025-04-25 00:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10685,2025-04-25 04:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-10686,2025-04-25 08:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-10687,2025-04-25 12:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-10688,2025-04-25 16:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-10689,2025-04-25 20:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10690,2025-04-26 00:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10691,2025-04-26 04:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-10692,2025-04-26 08:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-10693,2025-04-26 12:00:00,Smart Coffee Maker,1,89.99,Hyderabad,Home & Kitchen
+TX-10694,2025-04-26 16:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-10695,2025-04-26 20:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-10696,2025-04-27 00:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-10697,2025-04-27 04:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-10698,2025-04-27 08:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10699,2025-04-27 12:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-10700,2025-04-27 16:00:00,Noise Canceling Headphones,1,199.99,Delhi,Electronics
+TX-10701,2025-04-27 20:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10702,2025-04-28 00:00:00,Pro Gaming Laptop,3,1299.99,Chennai,Electronics
+TX-10703,2025-04-28 04:00:00,Plant Protein Powder,3,,Delhi,Beauty & Health
+TX-10704,2025-04-28 08:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10705,2025-04-28 12:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10706,2025-04-28 16:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10707,2025-04-28 20:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-10708,2025-04-29 00:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10709,2025-04-29 04:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-10710,2025-04-29 08:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-10711,2025-04-29 12:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-10712,2025-04-29 16:00:00,Pro Gaming Laptop,2,,Delhi,Electronics
+TX-10713,2025-04-29 20:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-10714,2025-04-30 00:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-10715,2025-04-30 04:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10716,2025-04-30 08:00:00,Ergonomic Desk Chair,2,249.99,Chennai,Home & Kitchen
+TX-10717,2025-04-30 12:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10718,2025-04-30 16:00:00,Plant Protein Powder,4,35.0,Mumbai,Beauty & Health
+TX-10719,2025-04-30 20:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10720,2025-05-01 00:00:00,Noise Canceling Headphones,4,199.99,Chennai,Electronics
+TX-10721,2025-05-01 04:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-10722,2025-05-01 08:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-10723,2025-05-01 12:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10724,2025-05-01 16:00:00,Pro Gaming Laptop,4,,Hyderabad,Electronics
+TX-10725,2025-05-01 20:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10726,2025-05-02 00:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-10727,2025-05-02 04:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-10728,2025-05-02 08:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10729,2025-05-02 12:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10730,2025-05-02 16:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10731,2025-05-02 20:00:00,Pro Gaming Laptop,1,,Hyderabad,Electronics
+TX-10732,2025-05-03 00:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10733,2025-05-03 04:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-10734,2025-05-03 08:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-10735,2025-05-03 12:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-10736,2025-05-03 16:00:00,Smart Coffee Maker,3,89.99,Chennai,Home & Kitchen
+TX-10737,2025-05-03 20:00:00,Premium Running Shoes,3,120.0,Delhi,Apparel
+TX-10738,2025-05-04 00:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-10739,2025-05-04 04:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10740,2025-05-04 08:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10741,2025-05-04 12:00:00,Leather Bomber Jacket,3,,Delhi,Apparel
+TX-10742,2025-05-04 16:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-10743,2025-05-04 20:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-10744,2025-05-05 00:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-10745,2025-05-05 04:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10746,2025-05-05 08:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-10747,2025-05-05 12:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-10748,2025-05-05 16:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10749,2025-05-05 20:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-10750,2025-05-06 00:00:00,Plant Protein Powder,1,35.0,Mumbai,Beauty & Health
+TX-10751,2025-05-06 04:00:00,Premium Running Shoes,3,120.0,Mumbai,Apparel
+TX-10752,2025-05-06 08:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10753,2025-05-06 12:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-10754,2025-05-06 16:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10755,2025-05-06 20:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-10756,2025-05-07 00:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10757,2025-05-07 04:00:00,Ergonomic Desk Chair,2,249.99,Chennai,Home & Kitchen
+TX-10758,2025-05-07 08:00:00,Pro Gaming Laptop,4,1299.99,Delhi,Electronics
+TX-10759,2025-05-07 12:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-10760,2025-05-07 16:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10761,2025-05-07 20:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-10762,2025-05-08 00:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10763,2025-05-08 04:00:00,Noise Canceling Headphones,2,199.99,Chennai,Electronics
+TX-10764,2025-05-08 08:00:00,Premium Running Shoes,2,120.0,Mumbai,Apparel
+TX-10765,2025-05-08 12:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-10766,2025-05-08 16:00:00,Premium Running Shoes,4,120.0,Mumbai,Apparel
+TX-10767,2025-05-08 20:00:00,Plant Protein Powder,4,35.0,Mumbai,Beauty & Health
+TX-10768,2025-05-09 00:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10769,2025-05-09 04:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-10770,2025-05-09 08:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10771,2025-05-09 12:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10772,2025-05-09 16:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-10773,2025-05-09 20:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-10774,2025-05-10 00:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10775,2025-05-10 04:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10776,2025-05-10 08:00:00,Pro Gaming Laptop,4,1299.99,Bangalore,Electronics
+TX-10777,2025-05-10 12:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-10778,2025-05-10 16:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10779,2025-05-10 20:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10780,2025-05-11 00:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-10781,2025-05-11 04:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10782,2025-05-11 08:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-10783,2025-05-11 12:00:00,Smart Coffee Maker,4,,Delhi,Home & Kitchen
+TX-10784,2025-05-11 16:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-10785,2025-05-11 20:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-10786,2025-05-12 00:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-10787,2025-05-12 04:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-10788,2025-05-12 08:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10789,2025-05-12 12:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10790,2025-05-12 16:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-10791,2025-05-12 20:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10792,2025-05-13 00:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10793,2025-05-13 04:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10794,2025-05-13 08:00:00,Pro Gaming Laptop,4,,Mumbai,Electronics
+TX-10795,2025-05-13 12:00:00,Vitamin C Skincare Serum,4,,Bangalore,Beauty & Health
+TX-10796,2025-05-13 16:00:00,Premium Running Shoes,1,120.0,Hyderabad,Apparel
+TX-10797,2025-05-13 20:00:00,Vitamin C Skincare Serum,3,,Mumbai,Beauty & Health
+TX-10798,2025-05-14 00:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10799,2025-05-14 04:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10800,2025-05-14 08:00:00,Pro Gaming Laptop,1,1299.99,Hyderabad,Electronics
+TX-10801,2025-05-14 12:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-10802,2025-05-14 16:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10803,2025-05-14 20:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10804,2025-05-15 00:00:00,Leather Bomber Jacket,1,250.0,Mumbai,Apparel
+TX-10805,2025-05-15 04:00:00,Smart Coffee Maker,1,89.99,Hyderabad,Home & Kitchen
+TX-10806,2025-05-15 08:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10807,2025-05-15 12:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-10808,2025-05-15 16:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-10809,2025-05-15 20:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10810,2025-05-16 00:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10811,2025-05-16 04:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10812,2025-05-16 08:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-10813,2025-05-16 12:00:00,Smart Coffee Maker,1,89.99,Hyderabad,Home & Kitchen
+TX-10814,2025-05-16 16:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10815,2025-05-16 20:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-10816,2025-05-17 00:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-10817,2025-05-17 04:00:00,Ergonomic Desk Chair,1,249.99,Mumbai,Home & Kitchen
+TX-10818,2025-05-17 08:00:00,Smart Coffee Maker,3,89.99,Bangalore,Home & Kitchen
+TX-10819,2025-05-17 12:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-10820,2025-05-17 16:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-10821,2025-05-17 20:00:00,Smart Coffee Maker,2,89.99,Bangalore,Home & Kitchen
+TX-10822,2025-05-18 00:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-10823,2025-05-18 04:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-10824,2025-05-18 08:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-10825,2025-05-18 12:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10826,2025-05-18 16:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-10827,2025-05-18 20:00:00,Noise Canceling Headphones,3,,Mumbai,Electronics
+TX-10828,2025-05-19 00:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-10829,2025-05-19 04:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-10830,2025-05-19 08:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-10831,2025-05-19 12:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-10832,2025-05-19 16:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-10833,2025-05-19 20:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10834,2025-05-20 00:00:00,Pro Gaming Laptop,1,1299.99,Chennai,Electronics
+TX-10835,2025-05-20 04:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-10836,2025-05-20 08:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10837,2025-05-20 12:00:00,Premium Running Shoes,2,120.0,Mumbai,Apparel
+TX-10838,2025-05-20 16:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-10839,2025-05-20 20:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-10840,2025-05-21 00:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-10841,2025-05-21 04:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-10842,2025-05-21 08:00:00,Pro Gaming Laptop,1,1299.99,Chennai,Electronics
+TX-10843,2025-05-21 12:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10844,2025-05-21 16:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10845,2025-05-21 20:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10846,2025-05-22 00:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10847,2025-05-22 04:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10848,2025-05-22 08:00:00,Vitamin C Skincare Serum,4,45.0,Mumbai,Beauty & Health
+TX-10849,2025-05-22 12:00:00,Leather Bomber Jacket,4,,Bangalore,Apparel
+TX-10850,2025-05-22 16:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-10851,2025-05-22 20:00:00,Noise Canceling Headphones,1,199.99,Delhi,Electronics
+TX-10852,2025-05-23 00:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10853,2025-05-23 04:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-10854,2025-05-23 08:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10855,2025-05-23 12:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10856,2025-05-23 16:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-10857,2025-05-23 20:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10858,2025-05-24 00:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10859,2025-05-24 04:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10860,2025-05-24 08:00:00,Smart Coffee Maker,4,,Delhi,Home & Kitchen
+TX-10861,2025-05-24 12:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10862,2025-05-24 16:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10863,2025-05-24 20:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-10864,2025-05-25 00:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10865,2025-05-25 04:00:00,Pro Gaming Laptop,3,,Mumbai,Electronics
+TX-10866,2025-05-25 08:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10867,2025-05-25 12:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-10868,2025-05-25 16:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10869,2025-05-25 20:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-10870,2025-05-26 00:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-10871,2025-05-26 04:00:00,Plant Protein Powder,4,35.0,Bangalore,Beauty & Health
+TX-10872,2025-05-26 08:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10873,2025-05-26 12:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-10874,2025-05-26 16:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-10875,2025-05-26 20:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10876,2025-05-27 00:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-10877,2025-05-27 04:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-10878,2025-05-27 08:00:00,Premium Running Shoes,1,120.0,Hyderabad,Apparel
+TX-10879,2025-05-27 12:00:00,Premium Running Shoes,4,120.0,Delhi,Apparel
+TX-10880,2025-05-27 16:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10881,2025-05-27 20:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-10882,2025-05-28 00:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-10883,2025-05-28 04:00:00,Plant Protein Powder,2,35.0,Mumbai,Beauty & Health
+TX-10884,2025-05-28 08:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-10885,2025-05-28 12:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-10886,2025-05-28 16:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-10887,2025-05-28 20:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-10888,2025-05-29 00:00:00,Smart Coffee Maker,3,89.99,Bangalore,Home & Kitchen
+TX-10889,2025-05-29 04:00:00,Pro Gaming Laptop,2,1299.99,Delhi,Electronics
+TX-10890,2025-05-29 08:00:00,Vitamin C Skincare Serum,2,45.0,Delhi,Beauty & Health
+TX-10891,2025-05-29 12:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-10892,2025-05-29 16:00:00,Pro Gaming Laptop,4,1299.99,Delhi,Electronics
+TX-10893,2025-05-29 20:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10894,2025-05-30 00:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10895,2025-05-30 04:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-10896,2025-05-30 08:00:00,Leather Bomber Jacket,4,250.0,Bangalore,Apparel
+TX-10897,2025-05-30 12:00:00,Smart Coffee Maker,3,,Chennai,Home & Kitchen
+TX-10898,2025-05-30 16:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10899,2025-05-30 20:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10900,2025-05-31 00:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-10901,2025-05-31 04:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10902,2025-05-31 08:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-10903,2025-05-31 12:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-10904,2025-05-31 16:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10905,2025-05-31 20:00:00,Noise Canceling Headphones,1,199.99,Chennai,Electronics
+TX-10906,2025-06-01 00:00:00,Noise Canceling Headphones,2,199.99,Hyderabad,Electronics
+TX-10907,2025-06-01 04:00:00,Ergonomic Desk Chair,3,249.99,Delhi,Home & Kitchen
+TX-10908,2025-06-01 08:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-10909,2025-06-01 12:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-10910,2025-06-01 16:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-10911,2025-06-01 20:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10912,2025-06-02 00:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-10913,2025-06-02 04:00:00,Noise Canceling Headphones,3,,Mumbai,Electronics
+TX-10914,2025-06-02 08:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10915,2025-06-02 12:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-10916,2025-06-02 16:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-10917,2025-06-02 20:00:00,Smart Coffee Maker,2,,Delhi,Home & Kitchen
+TX-10918,2025-06-03 00:00:00,Smart Coffee Maker,1,,Chennai,Home & Kitchen
+TX-10919,2025-06-03 04:00:00,Plant Protein Powder,4,35.0,Mumbai,Beauty & Health
+TX-10920,2025-06-03 08:00:00,Premium Running Shoes,1,120.0,Hyderabad,Apparel
+TX-10921,2025-06-03 12:00:00,Vitamin C Skincare Serum,3,,Mumbai,Beauty & Health
+TX-10922,2025-06-03 16:00:00,Pro Gaming Laptop,1,1299.99,Hyderabad,Electronics
+TX-10923,2025-06-03 20:00:00,Vitamin C Skincare Serum,1,45.0,Chennai,Beauty & Health
+TX-10924,2025-06-04 00:00:00,Pro Gaming Laptop,3,1299.99,Chennai,Electronics
+TX-10925,2025-06-04 04:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10926,2025-06-04 08:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-10927,2025-06-04 12:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-10928,2025-06-04 16:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-10929,2025-06-04 20:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10930,2025-06-05 00:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-10931,2025-06-05 04:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-10932,2025-06-05 08:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10933,2025-06-05 12:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-10934,2025-06-05 16:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-10935,2025-06-05 20:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10936,2025-06-06 00:00:00,Leather Bomber Jacket,2,250.0,Mumbai,Apparel
+TX-10937,2025-06-06 04:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10938,2025-06-06 08:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-10939,2025-06-06 12:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10940,2025-06-06 16:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10941,2025-06-06 20:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-10942,2025-06-07 00:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-10943,2025-06-07 04:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-10944,2025-06-07 08:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10945,2025-06-07 12:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-10946,2025-06-07 16:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-10947,2025-06-07 20:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-10948,2025-06-08 00:00:00,Leather Bomber Jacket,4,250.0,Mumbai,Apparel
+TX-10949,2025-06-08 04:00:00,Premium Running Shoes,1,120.0,Hyderabad,Apparel
+TX-10950,2025-06-08 08:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-10951,2025-06-08 12:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-10952,2025-06-08 16:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-10953,2025-06-08 20:00:00,Smart Coffee Maker,3,89.99,Chennai,Home & Kitchen
+TX-10954,2025-06-09 00:00:00,Ergonomic Desk Chair,1,249.99,Delhi,Home & Kitchen
+TX-10955,2025-06-09 04:00:00,Ergonomic Desk Chair,1,249.99,Chennai,Home & Kitchen
+TX-10956,2025-06-09 08:00:00,Smart Coffee Maker,3,89.99,Chennai,Home & Kitchen
+TX-10957,2025-06-09 12:00:00,Pro Gaming Laptop,3,1299.99,Chennai,Electronics
+TX-10958,2025-06-09 16:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-10959,2025-06-09 20:00:00,Vitamin C Skincare Serum,2,45.0,Chennai,Beauty & Health
+TX-10960,2025-06-10 00:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10961,2025-06-10 04:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-10962,2025-06-10 08:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-10963,2025-06-10 12:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-10964,2025-06-10 16:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-10965,2025-06-10 20:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-10966,2025-06-11 00:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-10967,2025-06-11 04:00:00,Leather Bomber Jacket,1,,Bangalore,Apparel
+TX-10968,2025-06-11 08:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-10969,2025-06-11 12:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-10970,2025-06-11 16:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-10971,2025-06-11 20:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-10972,2025-06-12 00:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-10973,2025-06-12 04:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-10974,2025-06-12 08:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-10975,2025-06-12 12:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-10976,2025-06-12 16:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-10977,2025-06-12 20:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-10978,2025-06-13 00:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-10979,2025-06-13 04:00:00,Leather Bomber Jacket,1,250.0,Mumbai,Apparel
+TX-10980,2025-06-13 08:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10981,2025-06-13 12:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-10982,2025-06-13 16:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10983,2025-06-13 20:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-10984,2025-06-14 00:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-10985,2025-06-14 04:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-10986,2025-06-14 08:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10987,2025-06-14 12:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-10988,2025-06-14 16:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-10989,2025-06-14 20:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-10990,2025-06-15 00:00:00,Noise Canceling Headphones,3,199.99,Mumbai,Electronics
+TX-10991,2025-06-15 04:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-10992,2025-06-15 08:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-10993,2025-06-15 12:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-10994,2025-06-15 16:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10995,2025-06-15 20:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10996,2025-06-16 00:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-10997,2025-06-16 04:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-10998,2025-06-16 08:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-10999,2025-06-16 12:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-11000,2025-06-16 16:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-11001,2025-06-16 20:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-11002,2025-06-17 00:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-11003,2025-06-17 04:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-11004,2025-06-17 08:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-11005,2025-06-17 12:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-11006,2025-06-17 16:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-11007,2025-06-17 20:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-11008,2025-06-18 00:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-11009,2025-06-18 04:00:00,Plant Protein Powder,4,35.0,Mumbai,Beauty & Health
+TX-11010,2025-06-18 08:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-11011,2025-06-18 12:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-11012,2025-06-18 16:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-11013,2025-06-18 20:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-11014,2025-06-19 00:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-11015,2025-06-19 04:00:00,Leather Bomber Jacket,4,250.0,Mumbai,Apparel
+TX-11016,2025-06-19 08:00:00,Noise Canceling Headphones,3,,Mumbai,Electronics
+TX-11017,2025-06-19 12:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-11018,2025-06-19 16:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-11019,2025-06-19 20:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-11020,2025-06-20 00:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-11021,2025-06-20 04:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-11022,2025-06-20 08:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-11023,2025-06-20 12:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-11024,2025-06-20 16:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-11025,2025-06-20 20:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-11026,2025-06-21 00:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-11027,2025-06-21 04:00:00,Ergonomic Desk Chair,1,249.99,Mumbai,Home & Kitchen
+TX-11028,2025-06-21 08:00:00,Premium Running Shoes,4,,Chennai,Apparel
+TX-11029,2025-06-21 12:00:00,Premium Running Shoes,1,120.0,Hyderabad,Apparel
+TX-11030,2025-06-21 16:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-11031,2025-06-21 20:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-11032,2025-06-22 00:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-11033,2025-06-22 04:00:00,Leather Bomber Jacket,2,,Bangalore,Apparel
+TX-11034,2025-06-22 08:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-11035,2025-06-22 12:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-11036,2025-06-22 16:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-11037,2025-06-22 20:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-11038,2025-06-23 00:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-11039,2025-06-23 04:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-11040,2025-06-23 08:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-11041,2025-06-23 12:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-11042,2025-06-23 16:00:00,Vitamin C Skincare Serum,1,45.0,Chennai,Beauty & Health
+TX-11043,2025-06-23 20:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-11044,2025-06-24 00:00:00,Leather Bomber Jacket,2,250.0,Mumbai,Apparel
+TX-11045,2025-06-24 04:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-11046,2025-06-24 08:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-11047,2025-06-24 12:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-11048,2025-06-24 16:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-11049,2025-06-24 20:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-11050,2025-06-25 00:00:00,Noise Canceling Headphones,4,199.99,Chennai,Electronics
+TX-11051,2025-06-25 04:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-11052,2025-06-25 08:00:00,Ergonomic Desk Chair,1,249.99,Chennai,Home & Kitchen
+TX-11053,2025-06-25 12:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-11054,2025-06-25 16:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-11055,2025-06-25 20:00:00,Premium Running Shoes,2,120.0,Hyderabad,Apparel
+TX-11056,2025-06-26 00:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-11057,2025-06-26 04:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-11058,2025-06-26 08:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-11059,2025-06-26 12:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-11060,2025-06-26 16:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-11061,2025-06-26 20:00:00,Premium Running Shoes,4,120.0,Delhi,Apparel
+TX-11062,2025-06-27 00:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11063,2025-06-27 04:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-11064,2025-06-27 08:00:00,Leather Bomber Jacket,2,250.0,Mumbai,Apparel
+TX-11065,2025-06-27 12:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-11066,2025-06-27 16:00:00,Premium Running Shoes,4,120.0,Delhi,Apparel
+TX-11067,2025-06-27 20:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-11068,2025-06-28 00:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-11069,2025-06-28 04:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-11070,2025-06-28 08:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-11071,2025-06-28 12:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-11072,2025-06-28 16:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-11073,2025-06-28 20:00:00,Ergonomic Desk Chair,1,249.99,Delhi,Home & Kitchen
+TX-11074,2025-06-29 00:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-11075,2025-06-29 04:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-11076,2025-06-29 08:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-11077,2025-06-29 12:00:00,Pro Gaming Laptop,1,1299.99,Chennai,Electronics
+TX-11078,2025-06-29 16:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-11079,2025-06-29 20:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-11080,2025-06-30 00:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-11081,2025-06-30 04:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-11082,2025-06-30 08:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-11083,2025-06-30 12:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-11084,2025-06-30 16:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-11085,2025-06-30 20:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-11086,2025-07-01 00:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-11087,2025-07-01 04:00:00,Plant Protein Powder,2,35.0,Hyderabad,Beauty & Health
+TX-11088,2025-07-01 08:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-11089,2025-07-01 12:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-11090,2025-07-01 16:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-11091,2025-07-01 20:00:00,Vitamin C Skincare Serum,2,45.0,Delhi,Beauty & Health
+TX-11092,2025-07-02 00:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-11093,2025-07-02 04:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-11094,2025-07-02 08:00:00,Noise Canceling Headphones,1,199.99,Delhi,Electronics
+TX-11095,2025-07-02 12:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-11096,2025-07-02 16:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-11097,2025-07-02 20:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-11098,2025-07-03 00:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-11099,2025-07-03 04:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-11100,2025-07-03 08:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-11101,2025-07-03 12:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-11102,2025-07-03 16:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-11103,2025-07-03 20:00:00,Pro Gaming Laptop,1,1299.99,Hyderabad,Electronics
+TX-11104,2025-07-04 00:00:00,Leather Bomber Jacket,3,,Mumbai,Apparel
+TX-11105,2025-07-04 04:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-11106,2025-07-04 08:00:00,Premium Running Shoes,4,,Bangalore,Apparel
+TX-11107,2025-07-04 12:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-11108,2025-07-04 16:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-11109,2025-07-04 20:00:00,Ergonomic Desk Chair,4,249.99,Mumbai,Home & Kitchen
+TX-11110,2025-07-05 00:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-11111,2025-07-05 04:00:00,Pro Gaming Laptop,4,,Bangalore,Electronics
+TX-11112,2025-07-05 08:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-11113,2025-07-05 12:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11114,2025-07-05 16:00:00,Vitamin C Skincare Serum,2,45.0,Delhi,Beauty & Health
+TX-11115,2025-07-05 20:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11116,2025-07-06 00:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-11117,2025-07-06 04:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-11118,2025-07-06 08:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-11119,2025-07-06 12:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-11120,2025-07-06 16:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-11121,2025-07-06 20:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-11122,2025-07-07 00:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-11123,2025-07-07 04:00:00,Vitamin C Skincare Serum,4,45.0,Mumbai,Beauty & Health
+TX-11124,2025-07-07 08:00:00,Leather Bomber Jacket,4,250.0,Mumbai,Apparel
+TX-11125,2025-07-07 12:00:00,Plant Protein Powder,2,35.0,Delhi,Beauty & Health
+TX-11126,2025-07-07 16:00:00,Smart Coffee Maker,2,89.99,Bangalore,Home & Kitchen
+TX-11127,2025-07-07 20:00:00,Noise Canceling Headphones,2,199.99,Chennai,Electronics
+TX-11128,2025-07-08 00:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-11129,2025-07-08 04:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-11130,2025-07-08 08:00:00,Noise Canceling Headphones,3,199.99,Mumbai,Electronics
+TX-11131,2025-07-08 12:00:00,Noise Canceling Headphones,3,199.99,Hyderabad,Electronics
+TX-11132,2025-07-08 16:00:00,Leather Bomber Jacket,1,,Delhi,Apparel
+TX-11133,2025-07-08 20:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-11134,2025-07-09 00:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-11135,2025-07-09 04:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-11136,2025-07-09 08:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-11137,2025-07-09 12:00:00,Noise Canceling Headphones,2,199.99,Mumbai,Electronics
+TX-11138,2025-07-09 16:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-11139,2025-07-09 20:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-11140,2025-07-10 00:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-11141,2025-07-10 04:00:00,Pro Gaming Laptop,4,1299.99,Bangalore,Electronics
+TX-11142,2025-07-10 08:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-11143,2025-07-10 12:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-11144,2025-07-10 16:00:00,Smart Coffee Maker,1,,Delhi,Home & Kitchen
+TX-11145,2025-07-10 20:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-11146,2025-07-11 00:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-11147,2025-07-11 04:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-11148,2025-07-11 08:00:00,Ergonomic Desk Chair,3,249.99,Chennai,Home & Kitchen
+TX-11149,2025-07-11 12:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-11150,2025-07-11 16:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-11151,2025-07-11 20:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-11152,2025-07-12 00:00:00,Smart Coffee Maker,4,89.99,Delhi,Home & Kitchen
+TX-11153,2025-07-12 04:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-11154,2025-07-12 08:00:00,Plant Protein Powder,3,35.0,Mumbai,Beauty & Health
+TX-11155,2025-07-12 12:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-11156,2025-07-12 16:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-11157,2025-07-12 20:00:00,Pro Gaming Laptop,4,1299.99,Bangalore,Electronics
+TX-11158,2025-07-13 00:00:00,Smart Coffee Maker,3,89.99,Bangalore,Home & Kitchen
+TX-11159,2025-07-13 04:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-11160,2025-07-13 08:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-11161,2025-07-13 12:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-11162,2025-07-13 16:00:00,Noise Canceling Headphones,2,199.99,Bangalore,Electronics
+TX-11163,2025-07-13 20:00:00,Leather Bomber Jacket,3,250.0,Chennai,Apparel
+TX-11164,2025-07-14 00:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-11165,2025-07-14 04:00:00,Noise Canceling Headphones,1,199.99,Delhi,Electronics
+TX-11166,2025-07-14 08:00:00,Premium Running Shoes,4,120.0,Mumbai,Apparel
+TX-11167,2025-07-14 12:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-11168,2025-07-14 16:00:00,Ergonomic Desk Chair,1,249.99,Bangalore,Home & Kitchen
+TX-11169,2025-07-14 20:00:00,Ergonomic Desk Chair,3,249.99,Delhi,Home & Kitchen
+TX-11170,2025-07-15 00:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-11171,2025-07-15 04:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-11172,2025-07-15 08:00:00,Ergonomic Desk Chair,2,249.99,Chennai,Home & Kitchen
+TX-11173,2025-07-15 12:00:00,Vitamin C Skincare Serum,3,45.0,Hyderabad,Beauty & Health
+TX-11174,2025-07-15 16:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-11175,2025-07-15 20:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-11176,2025-07-16 00:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-11177,2025-07-16 04:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-11178,2025-07-16 08:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-11179,2025-07-16 12:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-11180,2025-07-16 16:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-11181,2025-07-16 20:00:00,Plant Protein Powder,3,35.0,Chennai,Beauty & Health
+TX-11182,2025-07-17 00:00:00,Plant Protein Powder,4,,Bangalore,Beauty & Health
+TX-11183,2025-07-17 04:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-11184,2025-07-17 08:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-11185,2025-07-17 12:00:00,Smart Coffee Maker,1,,Mumbai,Home & Kitchen
+TX-11186,2025-07-17 16:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-11187,2025-07-17 20:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-11188,2025-07-18 00:00:00,Ergonomic Desk Chair,1,249.99,Chennai,Home & Kitchen
+TX-11189,2025-07-18 04:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-11190,2025-07-18 08:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-11191,2025-07-18 12:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-11192,2025-07-18 16:00:00,Premium Running Shoes,4,,Chennai,Apparel
+TX-11193,2025-07-18 20:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-11194,2025-07-19 00:00:00,Noise Canceling Headphones,4,199.99,Chennai,Electronics
+TX-11195,2025-07-19 04:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-11196,2025-07-19 08:00:00,Noise Canceling Headphones,4,199.99,Chennai,Electronics
+TX-11197,2025-07-19 12:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-11198,2025-07-19 16:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-11199,2025-07-19 20:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-11200,2025-07-20 00:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-11201,2025-07-20 04:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-11202,2025-07-20 08:00:00,Smart Coffee Maker,4,89.99,Bangalore,Home & Kitchen
+TX-11203,2025-07-20 12:00:00,Noise Canceling Headphones,1,,Hyderabad,Electronics
+TX-11204,2025-07-20 16:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-11205,2025-07-20 20:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-11206,2025-07-21 00:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-11207,2025-07-21 04:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-11208,2025-07-21 08:00:00,Pro Gaming Laptop,4,,Chennai,Electronics
+TX-11209,2025-07-21 12:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-11210,2025-07-21 16:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-11211,2025-07-21 20:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-11212,2025-07-22 00:00:00,Noise Canceling Headphones,2,199.99,Chennai,Electronics
+TX-11213,2025-07-22 04:00:00,Leather Bomber Jacket,4,250.0,Hyderabad,Apparel
+TX-11214,2025-07-22 08:00:00,Noise Canceling Headphones,2,,Mumbai,Electronics
+TX-11215,2025-07-22 12:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-11216,2025-07-22 16:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-11217,2025-07-22 20:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-11218,2025-07-23 00:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-11219,2025-07-23 04:00:00,Ergonomic Desk Chair,2,,Hyderabad,Home & Kitchen
+TX-11220,2025-07-23 08:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-11221,2025-07-23 12:00:00,Noise Canceling Headphones,1,199.99,Bangalore,Electronics
+TX-11222,2025-07-23 16:00:00,Pro Gaming Laptop,4,1299.99,Delhi,Electronics
+TX-11223,2025-07-23 20:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-11224,2025-07-24 00:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-11225,2025-07-24 04:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-11226,2025-07-24 08:00:00,Vitamin C Skincare Serum,4,45.0,Hyderabad,Beauty & Health
+TX-11227,2025-07-24 12:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-11228,2025-07-24 16:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-11229,2025-07-24 20:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-11230,2025-07-25 00:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-11231,2025-07-25 04:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-11232,2025-07-25 08:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-11233,2025-07-25 12:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-11234,2025-07-25 16:00:00,Noise Canceling Headphones,4,199.99,Mumbai,Electronics
+TX-11235,2025-07-25 20:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-11236,2025-07-26 00:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-11237,2025-07-26 04:00:00,Plant Protein Powder,2,35.0,Hyderabad,Beauty & Health
+TX-11238,2025-07-26 08:00:00,Pro Gaming Laptop,4,1299.99,Delhi,Electronics
+TX-11239,2025-07-26 12:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-11240,2025-07-26 16:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-11241,2025-07-26 20:00:00,Smart Coffee Maker,2,89.99,Hyderabad,Home & Kitchen
+TX-11242,2025-07-27 00:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-11243,2025-07-27 04:00:00,Vitamin C Skincare Serum,1,45.0,Chennai,Beauty & Health
+TX-11244,2025-07-27 08:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-11245,2025-07-27 12:00:00,Plant Protein Powder,2,35.0,Hyderabad,Beauty & Health
+TX-11246,2025-07-27 16:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-11247,2025-07-27 20:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-11248,2025-07-28 00:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-11249,2025-07-28 04:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-11250,2025-07-28 08:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-11251,2025-07-28 12:00:00,Leather Bomber Jacket,1,250.0,Mumbai,Apparel
+TX-11252,2025-07-28 16:00:00,Plant Protein Powder,3,35.0,Delhi,Beauty & Health
+TX-11253,2025-07-28 20:00:00,Noise Canceling Headphones,2,199.99,Hyderabad,Electronics
+TX-11254,2025-07-29 00:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-11255,2025-07-29 04:00:00,Noise Canceling Headphones,3,199.99,Delhi,Electronics
+TX-11256,2025-07-29 08:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-11257,2025-07-29 12:00:00,Ergonomic Desk Chair,4,249.99,Mumbai,Home & Kitchen
+TX-11258,2025-07-29 16:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-11259,2025-07-29 20:00:00,Ergonomic Desk Chair,3,249.99,Chennai,Home & Kitchen
+TX-11260,2025-07-30 00:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-11261,2025-07-30 04:00:00,Ergonomic Desk Chair,1,,Chennai,Home & Kitchen
+TX-11262,2025-07-30 08:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-11263,2025-07-30 12:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-11264,2025-07-30 16:00:00,Leather Bomber Jacket,1,250.0,Hyderabad,Apparel
+TX-11265,2025-07-30 20:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-11266,2025-07-31 00:00:00,Vitamin C Skincare Serum,2,45.0,Delhi,Beauty & Health
+TX-11267,2025-07-31 04:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-11268,2025-07-31 08:00:00,Premium Running Shoes,1,120.0,Hyderabad,Apparel
+TX-11269,2025-07-31 12:00:00,Noise Canceling Headphones,1,199.99,Mumbai,Electronics
+TX-11270,2025-07-31 16:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-11271,2025-07-31 20:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-11272,2025-08-01 00:00:00,Ergonomic Desk Chair,4,249.99,Mumbai,Home & Kitchen
+TX-11273,2025-08-01 04:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-11274,2025-08-01 08:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-11275,2025-08-01 12:00:00,Plant Protein Powder,4,35.0,Hyderabad,Beauty & Health
+TX-11276,2025-08-01 16:00:00,Pro Gaming Laptop,1,,Delhi,Electronics
+TX-11277,2025-08-01 20:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-11278,2025-08-02 00:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-11279,2025-08-02 04:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-11280,2025-08-02 08:00:00,Noise Canceling Headphones,3,,Mumbai,Electronics
+TX-11281,2025-08-02 12:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-11282,2025-08-02 16:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-11283,2025-08-02 20:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-11284,2025-08-03 00:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-11285,2025-08-03 04:00:00,Leather Bomber Jacket,4,250.0,Chennai,Apparel
+TX-11286,2025-08-03 08:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-11287,2025-08-03 12:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-11288,2025-08-03 16:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-11289,2025-08-03 20:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-11290,2025-08-04 00:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-11291,2025-08-04 04:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-11292,2025-08-04 08:00:00,Smart Coffee Maker,1,89.99,Delhi,Home & Kitchen
+TX-11293,2025-08-04 12:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-11294,2025-08-04 16:00:00,Smart Coffee Maker,4,89.99,Delhi,Home & Kitchen
+TX-11295,2025-08-04 20:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-11296,2025-08-05 00:00:00,Ergonomic Desk Chair,3,249.99,Bangalore,Home & Kitchen
+TX-11297,2025-08-05 04:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-11298,2025-08-05 08:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-11299,2025-08-05 12:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-11300,2025-08-05 16:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11301,2025-08-05 20:00:00,Smart Coffee Maker,2,89.99,Delhi,Home & Kitchen
+TX-11302,2025-08-06 00:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11303,2025-08-06 04:00:00,Leather Bomber Jacket,4,250.0,Mumbai,Apparel
+TX-11304,2025-08-06 08:00:00,Noise Canceling Headphones,1,199.99,Delhi,Electronics
+TX-11305,2025-08-06 12:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-11306,2025-08-06 16:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-11307,2025-08-06 20:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-11308,2025-08-07 00:00:00,Pro Gaming Laptop,1,1299.99,Hyderabad,Electronics
+TX-11309,2025-08-07 04:00:00,Smart Coffee Maker,4,89.99,Hyderabad,Home & Kitchen
+TX-11310,2025-08-07 08:00:00,Ergonomic Desk Chair,1,249.99,Mumbai,Home & Kitchen
+TX-11311,2025-08-07 12:00:00,Noise Canceling Headphones,1,199.99,Chennai,Electronics
+TX-11312,2025-08-07 16:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-11313,2025-08-07 20:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-11314,2025-08-08 00:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-11315,2025-08-08 04:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-11316,2025-08-08 08:00:00,Noise Canceling Headphones,4,199.99,Chennai,Electronics
+TX-11317,2025-08-08 12:00:00,Plant Protein Powder,3,,Mumbai,Beauty & Health
+TX-11318,2025-08-08 16:00:00,Noise Canceling Headphones,3,,Delhi,Electronics
+TX-11319,2025-08-08 20:00:00,Ergonomic Desk Chair,2,249.99,Chennai,Home & Kitchen
+TX-11320,2025-08-09 00:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-11321,2025-08-09 04:00:00,Ergonomic Desk Chair,3,249.99,Mumbai,Home & Kitchen
+TX-11322,2025-08-09 08:00:00,Premium Running Shoes,1,120.0,Hyderabad,Apparel
+TX-11323,2025-08-09 12:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-11324,2025-08-09 16:00:00,Premium Running Shoes,2,120.0,Bangalore,Apparel
+TX-11325,2025-08-09 20:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-11326,2025-08-10 00:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-11327,2025-08-10 04:00:00,Premium Running Shoes,1,120.0,Delhi,Apparel
+TX-11328,2025-08-10 08:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-11329,2025-08-10 12:00:00,Premium Running Shoes,1,,Mumbai,Apparel
+TX-11330,2025-08-10 16:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-11331,2025-08-10 20:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-11332,2025-08-11 00:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-11333,2025-08-11 04:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-11334,2025-08-11 08:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-11335,2025-08-11 12:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-11336,2025-08-11 16:00:00,Ergonomic Desk Chair,2,249.99,Delhi,Home & Kitchen
+TX-11337,2025-08-11 20:00:00,Leather Bomber Jacket,1,,Mumbai,Apparel
+TX-11338,2025-08-12 00:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-11339,2025-08-12 04:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-11340,2025-08-12 08:00:00,Vitamin C Skincare Serum,1,45.0,Hyderabad,Beauty & Health
+TX-11341,2025-08-12 12:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-11342,2025-08-12 16:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-11343,2025-08-12 20:00:00,Pro Gaming Laptop,3,1299.99,Bangalore,Electronics
+TX-11344,2025-08-13 00:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-11345,2025-08-13 04:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-11346,2025-08-13 08:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-11347,2025-08-13 12:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-11348,2025-08-13 16:00:00,Plant Protein Powder,1,35.0,Mumbai,Beauty & Health
+TX-11349,2025-08-13 20:00:00,Premium Running Shoes,2,120.0,Delhi,Apparel
+TX-11350,2025-08-14 00:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-11351,2025-08-14 04:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-11352,2025-08-14 08:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
+TX-11353,2025-08-14 12:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-11354,2025-08-14 16:00:00,Noise Canceling Headphones,2,199.99,Hyderabad,Electronics
+TX-11355,2025-08-14 20:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-11356,2025-08-15 00:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-11357,2025-08-15 04:00:00,Ergonomic Desk Chair,1,,Delhi,Home & Kitchen
+TX-11358,2025-08-15 08:00:00,Smart Coffee Maker,1,,Chennai,Home & Kitchen
+TX-11359,2025-08-15 12:00:00,Vitamin C Skincare Serum,3,45.0,Delhi,Beauty & Health
+TX-11360,2025-08-15 16:00:00,Leather Bomber Jacket,3,250.0,Delhi,Apparel
+TX-11361,2025-08-15 20:00:00,Leather Bomber Jacket,4,250.0,Delhi,Apparel
+TX-11362,2025-08-16 00:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-11363,2025-08-16 04:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-11364,2025-08-16 08:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-11365,2025-08-16 12:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-11366,2025-08-16 16:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-11367,2025-08-16 20:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-11368,2025-08-17 00:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-11369,2025-08-17 04:00:00,Noise Canceling Headphones,3,199.99,Mumbai,Electronics
+TX-11370,2025-08-17 08:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-11371,2025-08-17 12:00:00,Ergonomic Desk Chair,2,249.99,Hyderabad,Home & Kitchen
+TX-11372,2025-08-17 16:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-11373,2025-08-17 20:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-11374,2025-08-18 00:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-11375,2025-08-18 04:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-11376,2025-08-18 08:00:00,Smart Coffee Maker,2,89.99,Bangalore,Home & Kitchen
+TX-11377,2025-08-18 12:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-11378,2025-08-18 16:00:00,Leather Bomber Jacket,3,250.0,Chennai,Apparel
+TX-11379,2025-08-18 20:00:00,Noise Canceling Headphones,4,199.99,Hyderabad,Electronics
+TX-11380,2025-08-19 00:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-11381,2025-08-19 04:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-11382,2025-08-19 08:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-11383,2025-08-19 12:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-11384,2025-08-19 16:00:00,Pro Gaming Laptop,4,1299.99,Chennai,Electronics
+TX-11385,2025-08-19 20:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-11386,2025-08-20 00:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-11387,2025-08-20 04:00:00,Smart Coffee Maker,2,89.99,Mumbai,Home & Kitchen
+TX-11388,2025-08-20 08:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-11389,2025-08-20 12:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-11390,2025-08-20 16:00:00,Noise Canceling Headphones,2,199.99,Delhi,Electronics
+TX-11391,2025-08-20 20:00:00,Leather Bomber Jacket,3,250.0,Chennai,Apparel
+TX-11392,2025-08-21 00:00:00,Plant Protein Powder,2,35.0,Chennai,Beauty & Health
+TX-11393,2025-08-21 04:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-11394,2025-08-21 08:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-11395,2025-08-21 12:00:00,Leather Bomber Jacket,3,250.0,Bangalore,Apparel
+TX-11396,2025-08-21 16:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-11397,2025-08-21 20:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-11398,2025-08-22 00:00:00,Smart Coffee Maker,2,89.99,Chennai,Home & Kitchen
+TX-11399,2025-08-22 04:00:00,Premium Running Shoes,2,,Bangalore,Apparel
+TX-11400,2025-08-22 08:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-11401,2025-08-22 12:00:00,Ergonomic Desk Chair,2,249.99,Hyderabad,Home & Kitchen
+TX-11402,2025-08-22 16:00:00,Pro Gaming Laptop,1,,Bangalore,Electronics
+TX-11403,2025-08-22 20:00:00,Leather Bomber Jacket,2,250.0,Chennai,Apparel
+TX-11404,2025-08-23 00:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-11405,2025-08-23 04:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-11406,2025-08-23 08:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-11407,2025-08-23 12:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-11408,2025-08-23 16:00:00,Vitamin C Skincare Serum,4,45.0,Mumbai,Beauty & Health
+TX-11409,2025-08-23 20:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-11410,2025-08-24 00:00:00,Smart Coffee Maker,4,89.99,Mumbai,Home & Kitchen
+TX-11411,2025-08-24 04:00:00,Noise Canceling Headphones,1,,Delhi,Electronics
+TX-11412,2025-08-24 08:00:00,Premium Running Shoes,2,120.0,Chennai,Apparel
+TX-11413,2025-08-24 12:00:00,Plant Protein Powder,4,35.0,Chennai,Beauty & Health
+TX-11414,2025-08-24 16:00:00,Noise Canceling Headphones,1,199.99,Hyderabad,Electronics
+TX-11415,2025-08-24 20:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-11416,2025-08-25 00:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-11417,2025-08-25 04:00:00,Vitamin C Skincare Serum,3,45.0,Mumbai,Beauty & Health
+TX-11418,2025-08-25 08:00:00,Premium Running Shoes,4,120.0,Hyderabad,Apparel
+TX-11419,2025-08-25 12:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-11420,2025-08-25 16:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-11421,2025-08-25 20:00:00,Pro Gaming Laptop,4,1299.99,Bangalore,Electronics
+TX-11422,2025-08-26 00:00:00,Ergonomic Desk Chair,1,249.99,Chennai,Home & Kitchen
+TX-11423,2025-08-26 04:00:00,Vitamin C Skincare Serum,1,45.0,Delhi,Beauty & Health
+TX-11424,2025-08-26 08:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-11425,2025-08-26 12:00:00,Leather Bomber Jacket,2,250.0,Hyderabad,Apparel
+TX-11426,2025-08-26 16:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11427,2025-08-26 20:00:00,Ergonomic Desk Chair,2,249.99,Mumbai,Home & Kitchen
+TX-11428,2025-08-27 00:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-11429,2025-08-27 04:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-11430,2025-08-27 08:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-11431,2025-08-27 12:00:00,Premium Running Shoes,3,120.0,Mumbai,Apparel
+TX-11432,2025-08-27 16:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-11433,2025-08-27 20:00:00,Smart Coffee Maker,1,89.99,Chennai,Home & Kitchen
+TX-11434,2025-08-28 00:00:00,Smart Coffee Maker,1,89.99,Hyderabad,Home & Kitchen
+TX-11435,2025-08-28 04:00:00,Noise Canceling Headphones,1,199.99,Chennai,Electronics
+TX-11436,2025-08-28 08:00:00,Leather Bomber Jacket,4,250.0,Bangalore,Apparel
+TX-11437,2025-08-28 12:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-11438,2025-08-28 16:00:00,Plant Protein Powder,1,35.0,Bangalore,Beauty & Health
+TX-11439,2025-08-28 20:00:00,Ergonomic Desk Chair,1,,Hyderabad,Home & Kitchen
+TX-11440,2025-08-29 00:00:00,Pro Gaming Laptop,1,1299.99,Bangalore,Electronics
+TX-11441,2025-08-29 04:00:00,Noise Canceling Headphones,3,199.99,Chennai,Electronics
+TX-11442,2025-08-29 08:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-11443,2025-08-29 12:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-11444,2025-08-29 16:00:00,Ergonomic Desk Chair,4,249.99,Hyderabad,Home & Kitchen
+TX-11445,2025-08-29 20:00:00,Pro Gaming Laptop,2,1299.99,Hyderabad,Electronics
+TX-11446,2025-08-30 00:00:00,Plant Protein Powder,1,35.0,Chennai,Beauty & Health
+TX-11447,2025-08-30 04:00:00,Plant Protein Powder,2,35.0,Hyderabad,Beauty & Health
+TX-11448,2025-08-30 08:00:00,Leather Bomber Jacket,2,250.0,Mumbai,Apparel
+TX-11449,2025-08-30 12:00:00,Smart Coffee Maker,4,89.99,Hyderabad,Home & Kitchen
+TX-11450,2025-08-30 16:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-11451,2025-08-30 20:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-11452,2025-08-31 00:00:00,Plant Protein Powder,2,35.0,Bangalore,Beauty & Health
+TX-11453,2025-08-31 04:00:00,Ergonomic Desk Chair,2,249.99,Chennai,Home & Kitchen
+TX-11454,2025-08-31 08:00:00,Pro Gaming Laptop,2,1299.99,Bangalore,Electronics
+TX-11455,2025-08-31 12:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-11456,2025-08-31 16:00:00,Leather Bomber Jacket,1,250.0,Chennai,Apparel
+TX-11457,2025-08-31 20:00:00,Smart Coffee Maker,3,89.99,Hyderabad,Home & Kitchen
+TX-11458,2025-09-01 00:00:00,Leather Bomber Jacket,3,250.0,Mumbai,Apparel
+TX-11459,2025-09-01 04:00:00,Ergonomic Desk Chair,1,249.99,Hyderabad,Home & Kitchen
+TX-11460,2025-09-01 08:00:00,Premium Running Shoes,3,120.0,Hyderabad,Apparel
+TX-11461,2025-09-01 12:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-11462,2025-09-01 16:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-11463,2025-09-01 20:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-11464,2025-09-02 00:00:00,Ergonomic Desk Chair,2,249.99,Bangalore,Home & Kitchen
+TX-11465,2025-09-02 04:00:00,Leather Bomber Jacket,3,250.0,Hyderabad,Apparel
+TX-11466,2025-09-02 08:00:00,Noise Canceling Headphones,1,199.99,Delhi,Electronics
+TX-11467,2025-09-02 12:00:00,Leather Bomber Jacket,1,250.0,Delhi,Apparel
+TX-11468,2025-09-02 16:00:00,Smart Coffee Maker,3,89.99,Bangalore,Home & Kitchen
+TX-11469,2025-09-02 20:00:00,Pro Gaming Laptop,1,1299.99,Delhi,Electronics
+TX-11470,2025-09-03 00:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-11471,2025-09-03 04:00:00,Noise Canceling Headphones,2,199.99,Chennai,Electronics
+TX-11472,2025-09-03 08:00:00,Pro Gaming Laptop,3,1299.99,Hyderabad,Electronics
+TX-11473,2025-09-03 12:00:00,Noise Canceling Headphones,3,199.99,Mumbai,Electronics
+TX-11474,2025-09-03 16:00:00,Plant Protein Powder,1,35.0,Hyderabad,Beauty & Health
+TX-11475,2025-09-03 20:00:00,Plant Protein Powder,3,,Bangalore,Beauty & Health
+TX-11476,2025-09-04 00:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11477,2025-09-04 04:00:00,Plant Protein Powder,1,,Hyderabad,Beauty & Health
+TX-11478,2025-09-04 08:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-11479,2025-09-04 12:00:00,Plant Protein Powder,1,35.0,Delhi,Beauty & Health
+TX-11480,2025-09-04 16:00:00,Ergonomic Desk Chair,1,249.99,Delhi,Home & Kitchen
+TX-11481,2025-09-04 20:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-11482,2025-09-05 00:00:00,Leather Bomber Jacket,1,250.0,Bangalore,Apparel
+TX-11483,2025-09-05 04:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-11484,2025-09-05 08:00:00,Vitamin C Skincare Serum,4,45.0,Bangalore,Beauty & Health
+TX-11485,2025-09-05 12:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-11486,2025-09-05 16:00:00,Vitamin C Skincare Serum,2,45.0,Hyderabad,Beauty & Health
+TX-11487,2025-09-05 20:00:00,Pro Gaming Laptop,3,1299.99,Mumbai,Electronics
+TX-11488,2025-09-06 00:00:00,Pro Gaming Laptop,3,1299.99,Delhi,Electronics
+TX-11489,2025-09-06 04:00:00,Pro Gaming Laptop,4,1299.99,Hyderabad,Electronics
+TX-11490,2025-09-06 08:00:00,Pro Gaming Laptop,2,1299.99,Mumbai,Electronics
+TX-11491,2025-09-06 12:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-11492,2025-09-06 16:00:00,Vitamin C Skincare Serum,2,45.0,Bangalore,Beauty & Health
+TX-11493,2025-09-06 20:00:00,Noise Canceling Headphones,2,199.99,Hyderabad,Electronics
+TX-11494,2025-09-07 00:00:00,Leather Bomber Jacket,2,250.0,Bangalore,Apparel
+TX-11495,2025-09-07 04:00:00,Premium Running Shoes,1,120.0,Chennai,Apparel
+TX-11496,2025-09-07 08:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-11497,2025-09-07 12:00:00,Plant Protein Powder,1,35.0,Mumbai,Beauty & Health
+TX-11498,2025-09-07 16:00:00,Ergonomic Desk Chair,2,249.99,Hyderabad,Home & Kitchen
+TX-11499,2025-09-07 20:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10863,2025-05-24 20:00:00,Noise Canceling Headphones,4,199.99,Delhi,Electronics
+TX-10555,2025-04-03 12:00:00,Plant Protein Powder,3,35.0,Hyderabad,Beauty & Health
+TX-10226,2025-02-07 16:00:00,Premium Running Shoes,4,120.0,Chennai,Apparel
+TX-10792,2025-05-13 00:00:00,Premium Running Shoes,3,120.0,Chennai,Apparel
+TX-10314,2025-02-22 08:00:00,Ergonomic Desk Chair,4,249.99,Chennai,Home & Kitchen
+TX-10678,2025-04-24 00:00:00,Noise Canceling Headphones,3,199.99,Bangalore,Electronics
+TX-10612,2025-04-13 00:00:00,Smart Coffee Maker,2,89.99,Bangalore,Home & Kitchen
+TX-10917,2025-06-02 20:00:00,Smart Coffee Maker,2,,Delhi,Home & Kitchen
+TX-10137,2025-01-23 20:00:00,Pro Gaming Laptop,1,1299.99,Mumbai,Electronics
+TX-10462,2025-03-19 00:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-11332,2025-08-11 00:00:00,Vitamin C Skincare Serum,1,45.0,Mumbai,Beauty & Health
+TX-10276,2025-02-16 00:00:00,Pro Gaming Laptop,2,1299.99,Chennai,Electronics
+TX-11377,2025-08-18 12:00:00,Premium Running Shoes,4,120.0,Bangalore,Apparel
+TX-10169,2025-01-29 04:00:00,Leather Bomber Jacket,4,250.0,Bangalore,Apparel
+TX-11408,2025-08-23 16:00:00,Vitamin C Skincare Serum,4,45.0,Mumbai,Beauty & Health
+TX-10807,2025-05-15 12:00:00,Pro Gaming Laptop,4,1299.99,Mumbai,Electronics
+TX-10146,2025-01-25 08:00:00,Ergonomic Desk Chair,3,249.99,Hyderabad,Home & Kitchen
+TX-10915,2025-06-02 12:00:00,Leather Bomber Jacket,2,250.0,Delhi,Apparel
+TX-11063,2025-06-27 04:00:00,Premium Running Shoes,1,120.0,Bangalore,Apparel
+TX-11406,2025-08-23 08:00:00,Noise Canceling Headphones,4,199.99,Bangalore,Electronics
+TX-10979,2025-06-13 04:00:00,Leather Bomber Jacket,1,250.0,Mumbai,Apparel
+TX-10580,2025-04-07 16:00:00,Leather Bomber Jacket,1,,Mumbai,Apparel
+TX-10669,2025-04-22 12:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-10994,2025-06-15 16:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10728,2025-05-02 08:00:00,Premium Running Shoes,1,120.0,Mumbai,Apparel
+TX-10629,2025-04-15 20:00:00,Vitamin C Skincare Serum,4,45.0,Delhi,Beauty & Health
+TX-10760,2025-05-07 16:00:00,Smart Coffee Maker,1,89.99,Mumbai,Home & Kitchen
+TX-10465,2025-03-19 12:00:00,Vitamin C Skincare Serum,1,45.0,Bangalore,Beauty & Health
+TX-11242,2025-07-27 00:00:00,Vitamin C Skincare Serum,3,45.0,Bangalore,Beauty & Health
+TX-10637,2025-04-17 04:00:00,Vitamin C Skincare Serum,4,45.0,Mumbai,Beauty & Health
+TX-10046,2025-01-08 16:00:00,Plant Protein Powder,4,35.0,Delhi,Beauty & Health
+TX-11350,2025-08-14 00:00:00,Smart Coffee Maker,4,89.99,Chennai,Home & Kitchen
+TX-11334,2025-08-11 08:00:00,Smart Coffee Maker,3,89.99,Delhi,Home & Kitchen
+TX-10454,2025-03-17 16:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-10814,2025-05-16 16:00:00,Smart Coffee Maker,3,89.99,Mumbai,Home & Kitchen
+TX-10173,2025-01-29 20:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10656,2025-04-20 08:00:00,Vitamin C Skincare Serum,4,45.0,Chennai,Beauty & Health
+TX-10799,2025-05-14 04:00:00,Ergonomic Desk Chair,4,249.99,Delhi,Home & Kitchen
+TX-10393,2025-03-07 12:00:00,Plant Protein Powder,3,35.0,Bangalore,Beauty & Health
+TX-11442,2025-08-29 08:00:00,Smart Coffee Maker,1,89.99,Bangalore,Home & Kitchen
+TX-10132,2025-01-23 00:00:00,Pro Gaming Laptop,4,1299.99,Delhi,Electronics
+TX-10114,2025-01-20 00:00:00,Vitamin C Skincare Serum,2,45.0,Mumbai,Beauty & Health
+TX-11273,2025-08-01 04:00:00,Ergonomic Desk Chair,4,249.99,Bangalore,Home & Kitchen
+TX-10135,2025-01-23 12:00:00,Premium Running Shoes,3,120.0,Bangalore,Apparel
+TX-11057,2025-06-26 04:00:00,Vitamin C Skincare Serum,3,45.0,Chennai,Beauty & Health
